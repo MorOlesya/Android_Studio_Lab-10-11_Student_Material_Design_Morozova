@@ -24,7 +24,7 @@
 * Material Design 3
 * Шрифты: Montserrat, Abril Fatface
 * Иконки: Material Icons Extended
-* истема контроля версий: Git/GitHub
+* система контроля версий: Git/GitHub
 
 ## Автор
 
